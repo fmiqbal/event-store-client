@@ -28,7 +28,7 @@
     "amphp/socket": "^2.0-beta",
     "google/protobuf": "^3.19.3",
     "prooph/event-store": "^7.7",
-    "psr/log": "^2.0"
+    "psr/log": "^3.0"
   },
   "require-dev": {
     "amphp/file": "^3.0",
